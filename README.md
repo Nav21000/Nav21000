@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nav21000
-- 👀 I’m interested in C and c++ projects
-- 🌱 I’m currently learning C++ and Web Developement.
-- 💞️ I’m looking to collaborate on c++ and web developement projects. 
+- 👋 Hi, I’m Navneet Gupta
+- 👀 I’m interested in C ,C++ and java projects
+- 🌱 I’m currently learning C++ and Android Developement.
+- 💞️ I’m looking to collaborate on c++, java and Android developement projects. 
 - 📫 How to reach me .mail at : navneetguptaend@gmail.com
 
 <!---
