@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navneet Gupta
-- 👀 I’m interested in C ,C++ and java projects
-- 🌱 I’m currently learning C++ ,Android Developement and flutter.
-- 💞️ I’m looking to collaborate on c++, java, Android developement and flutter projects. 
+- 👀 I’m interested in C ,C++ and Web Development 
+- 🌱 I’m currently learning C++ ,DSA and Web Development.
+- 💞️ I’m looking to collaborate on c++, java and web Development projects. 
 - 📫 How to reach me .mail at : navneetguptaend@gmail.com
 
 <!---
